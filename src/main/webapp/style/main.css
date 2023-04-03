@@ -1,0 +1,48 @@
+@charset "UTF-8";
+
+table {
+
+  font-family: arial, sans-serif;
+
+  border-collapse: collapse;
+
+  width: 100%;
+
+}
+
+ td, th {
+
+  border: 1px solid #dddddd;
+
+  text-align: left;
+
+  padding: 8px;
+
+}
+
+tr:nth-child(even){
+	background-color: #e5ebff;
+}
+
+div {
+	text-align: left;
+	padding: 20px;
+	background-color: #8AC7DB;
+}
+
+label {
+	
+	font-family: arial, sans-serif;
+	font-weight: bold;
+ 	padding: 10px;
+  	width: 100%;
+}
+
+thead {
+	background-color: #8AC7DB;
+	}
+
+Button {
+	width: 5em;
+	
+}
